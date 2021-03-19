@@ -1,0 +1,19 @@
+{
+  "name": "the-internet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "node_modules/.bin/cypress open"
+  },
+  "keywords": [
+    "testing",
+    "the-internet",
+    "qa"
+  ],
+  "author": "Filip Hric (https://filiphric.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
